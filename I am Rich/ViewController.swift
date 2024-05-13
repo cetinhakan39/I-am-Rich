@@ -14,6 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+   // This app is only for to edit images.
 }
 
